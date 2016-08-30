@@ -1,2 +1,2 @@
 # bitrix
-BitrixProjects
+This is my Bitrix Features.
